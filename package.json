@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@shopify/shopify-api": "^11.6.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "shopify-api": "^0.2.3",
+    "shopify-api-node": "^3.14.0"
+  },
+  "name": "shopify-graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
